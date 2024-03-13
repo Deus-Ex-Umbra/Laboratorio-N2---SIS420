@@ -1,1 +1,25 @@
+Universitario: Aparicio Llanquipacha Gabriel
 
+Nombre del Dataset: Forex Data Sell Strategy
+
+URL del Dataset: https://www.kaggle.com/datasets/akashva/forex-data-sell-strategy
+
+Temática del Dataset:
+El conjunto de datos se centra en proporcionar información relevante para el desarrollo de estrategias de venta (sell strategy) en el mercado de divisas (forex) mediante el uso de técnicas de aprendizaje automático. La información disponible está destinada a ser utilizada en la investigación y desarrollo de estrategias de trading automatizado.
+
+Variables de Entrada:
+El conjunto de datos incluye características técnicas y diferencias de precios relevantes para el entrenamiento de modelos de aprendizaje automático. Estas variables de entrada podrían incluir:
+
+Datetime: Fecha y hora en formato datetime.
+Open: Precio de apertura en el período de tiempo especificado.
+High: Precio más alto alcanzado durante el período de tiempo especificado.
+Low: Precio más bajo alcanzado durante el período de tiempo especificado.
+Close: Precio de cierre en el período de tiempo especificado.
+Adj Close: Precio de cierre ajustado en el período de tiempo especificado.
+Volume: Volumen de transacciones durante el período de tiempo especificado.
+rsi: Índice de fuerza relativa (RSI), un indicador técnico utilizado para evaluar la sobrecompra o sobreventa de un activo.
+macdhist: Histograma del Convergencia/Divergencia de la Media Móvil (MACD), un indicador de análisis técnico que muestra la diferencia entre dos medias móviles exponenciales.
+i2, i18, i1, i3, i4, i5, i6, i7, i8, i9, i10, i11, i12, i13, i14: Columnas adicionales sin descripción proporcionada. Son características derivadas de los precios y volúmenes.
+
+Variable de Salida:
+Label: Proporciona una guía para la ejecución de operaciones de venta en el mercado de divisas, basada en el análisis y las características técnicas proporcionadas en el conjunto de datos.
